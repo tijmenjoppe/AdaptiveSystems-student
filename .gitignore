@@ -127,3 +127,10 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+
+# Custom
+code/log/
+
+code/mc_eval_random.txt
+code/ddqn.ipynb
