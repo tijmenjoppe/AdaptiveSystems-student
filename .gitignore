@@ -131,6 +131,8 @@ dmypy.json
 
 # Custom
 code/log/
+code/saved_models/
 
 code/mc_eval_random.txt
 code/ddqn.ipynb
+code/AS_scratchbook.ipynb
