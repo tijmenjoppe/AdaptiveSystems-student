@@ -136,3 +136,6 @@ code/saved_models/
 code/mc_eval_random.txt
 code/ddqn.ipynb
 code/AS_scratchbook.ipynb
+code/AS1 - Model-based prediction and control.ipynb
+code/AS2 - Model-free prediction and control.ipynb
+code/AS3 - Deep Q-learning.ipynb
